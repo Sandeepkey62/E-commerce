@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sandeepkey62/react-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Sandeepkey62/react-app.git/static/js/main.1c63678c.chunk.js",
+    "main.js.map": "/Sandeepkey62/react-app.git/static/js/main.1c63678c.chunk.js.map",
+    "runtime-main.js": "/Sandeepkey62/react-app.git/static/js/runtime-main.9025cc95.js",
+    "runtime-main.js.map": "/Sandeepkey62/react-app.git/static/js/runtime-main.9025cc95.js.map",
+    "static/js/2.8aaac6e4.chunk.js": "/Sandeepkey62/react-app.git/static/js/2.8aaac6e4.chunk.js",
+    "static/js/2.8aaac6e4.chunk.js.map": "/Sandeepkey62/react-app.git/static/js/2.8aaac6e4.chunk.js.map",
+    "index.html": "/Sandeepkey62/react-app.git/index.html",
+    "precache-manifest.a54a932476ebee71bdb1524cf4b0a55d.js": "/Sandeepkey62/react-app.git/precache-manifest.a54a932476ebee71bdb1524cf4b0a55d.js",
+    "service-worker.js": "/Sandeepkey62/react-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Sandeepkey62/react-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8aaac6e4.chunk.js.LICENSE.txt": "/Sandeepkey62/react-app.git/static/js/2.8aaac6e4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sandeepkey62/react-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9025cc95.js",
+    "static/js/2.8aaac6e4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1c63678c.chunk.js"
+  ]
+}

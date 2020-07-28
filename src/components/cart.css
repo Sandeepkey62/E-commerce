@@ -1,0 +1,17 @@
+.cartsItem{
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+ul li{
+	 height: 20%;
+	 width: 20%;
+}
+.imgs{
+padding: 23px;
+}
+.totals{
+ padding-left: 50%;
+ width: auto;
+ height: all;
+}
